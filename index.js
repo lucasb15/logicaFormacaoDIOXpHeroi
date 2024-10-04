@@ -44,4 +44,4 @@ do {
     }
 } while (rank == null)
 
-console.log(`O Herói de nome ${nome} está no nível de ${rank}`)
+console.log(`O Herói de nome ${nome} está no nível de ${rank}`);
