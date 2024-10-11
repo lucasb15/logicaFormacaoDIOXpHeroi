@@ -16,4 +16,4 @@ Adicione a biblioteca do prompts.
 ```
 npm install prompts
 ```
-Após isso será feito pelo terminal, tanto entrada quanto saida.
+Após isso as interações serão feitas pelo terminal, tanto entrada quanto saida.
