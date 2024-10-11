@@ -1,0 +1,55 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de dependências
+node_modules/
+jspm_packages/
+
+# Diretórios de pacotes de compilação
+dist/
+build/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Diretórios de cache
+.cache/
+.npm/
+.yarn/
+.pnp.*
+
+# Arquivos do editor
+.vscode/
+.idea/
+.DS_Store
+
+# Logs PM2
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Cobertura de testes
+coverage/
+*.lcov
+
+# Configurações personalizadas
+*.local
+*.config.js
+*.config.json
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Arquivos de lock
+package-lock.json
+yarn.lock
