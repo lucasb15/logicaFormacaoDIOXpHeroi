@@ -3,9 +3,9 @@
 ## Desafio da DIO
 
 Desafios:
-### 1️⃣ <Desafio Classificador de nível de Herói />
-### 2️⃣ <Calculadora de partidas Rankeadas />
-### 3️⃣ <Escrevendo as classes de um Jogo />
+### 1️⃣ <Desafio Classificador de nível de Herói /\>   
+### 2️⃣ <Calculadora de partidas Rankeadas /\>    
+### 3️⃣ <Escrevendo as classes de um Jogo /\>
 
 ### Links das Formações:
 [Formação Lógica de Programação](https://www.dio.me/curso-logica-programacao)  
